@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Store_app/static/css/main.31cbf1c6.chunk.css",
+    "main.js": "/Store_app/static/js/main.a91bd062.chunk.js",
+    "main.js.map": "/Store_app/static/js/main.a91bd062.chunk.js.map",
+    "runtime-main.js": "/Store_app/static/js/runtime-main.a8e1ce0e.js",
+    "runtime-main.js.map": "/Store_app/static/js/runtime-main.a8e1ce0e.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Store_app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.56bc9a4c.chunk.js": "/Store_app/static/js/2.56bc9a4c.chunk.js",
+    "static/js/2.56bc9a4c.chunk.js.map": "/Store_app/static/js/2.56bc9a4c.chunk.js.map",
+    "index.html": "/Store_app/index.html",
+    "precache-manifest.f583a6f9c513e1c030f103851c8e2065.js": "/Store_app/precache-manifest.f583a6f9c513e1c030f103851c8e2065.js",
+    "service-worker.js": "/Store_app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Store_app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.31cbf1c6.chunk.css.map": "/Store_app/static/css/main.31cbf1c6.chunk.css.map",
+    "static/js/2.56bc9a4c.chunk.js.LICENSE.txt": "/Store_app/static/js/2.56bc9a4c.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Store_app/static/media/1.c7dafc06.jpg",
+    "static/media/10.jpg": "/Store_app/static/media/10.255a3372.jpg",
+    "static/media/11.jpg": "/Store_app/static/media/11.62a28b48.jpg",
+    "static/media/12.jpg": "/Store_app/static/media/12.b58300fe.jpg",
+    "static/media/2.jpg": "/Store_app/static/media/2.9571df2d.jpg",
+    "static/media/3.jpg": "/Store_app/static/media/3.b1819dcf.jpg",
+    "static/media/4.jpg": "/Store_app/static/media/4.62bfcbc6.jpg",
+    "static/media/5.jpg": "/Store_app/static/media/5.03e1679e.jpg",
+    "static/media/6.jpg": "/Store_app/static/media/6.c4f1b31b.jpg",
+    "static/media/7.jpg": "/Store_app/static/media/7.a6641e1d.jpg",
+    "static/media/8.jpg": "/Store_app/static/media/8.b767ddad.jpg",
+    "static/media/9.jpg": "/Store_app/static/media/9.1c1fd135.jpg",
+    "static/media/App.css": "/Store_app/static/media/slider.1bc5e3bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8e1ce0e.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.56bc9a4c.chunk.js",
+    "static/css/main.31cbf1c6.chunk.css",
+    "static/js/main.a91bd062.chunk.js"
+  ]
+}
